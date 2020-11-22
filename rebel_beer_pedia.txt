@@ -1,0 +1,1 @@
+link to deployed app in Vercel hosting platform :  https://beer-pedia.vercel.app
