@@ -1,0 +1,9 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  overflow-x: hidden;
+}
+@font-face {
+  font-family: "Titillium";
+  src: url("../src/fonts/TitilliumWeb-Light.ttf");
+}
